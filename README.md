@@ -118,7 +118,7 @@ END
 (Add your calculation here)
 
 ---
-![WhatsApp Image 2026-02-04 at 11 45 03 AM](https://github.com/user-attachments/assets/3ea87275-4f0d-4aae-ab88-5b76bfda52f5)
+<img width="653" height="434" alt="image" src="https://github.com/user-attachments/assets/400178a1-1d2a-491a-bb00-79d40268659c" />
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
