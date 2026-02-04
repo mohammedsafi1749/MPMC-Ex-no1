@@ -118,6 +118,7 @@ END
 (Add your calculation here)
 
 ---
+<img width="636" height="410" alt="image" src="https://github.com/user-attachments/assets/b34f93aa-d5a7-426b-bb94-b208a03da365" />
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
