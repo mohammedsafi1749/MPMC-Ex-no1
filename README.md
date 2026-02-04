@@ -37,15 +37,15 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 CODE SEGMENT
 ASSUME CS:CODE, DS:CODE
 ORG 1000H
-MOV SI,1200H
-MOV AX,[SI]
-MOV BX,[SI+02H]
 MOV CL,00H
+MOV AX,1234H
+MOV BX,1234H
 ADD AX,BX
 JNC L1
 INC CL
-L1:MOV[SI+04H],AX
-MOV [SI+06H]
+L1:MOV SI,1200H
+MOV [SI],AX
+MOV [SI+2],CL
 MOV AH,4CH
 INT 21H
 CODE ENDS
@@ -64,7 +64,7 @@ END
 
 (Add your calculation here)
 
-<img width="635" height="427" alt="image" src="https://github.com/user-attachments/assets/6efa4a57-7dfe-4ef7-8d6c-f43f5e921db9" />
+<img width="634" height="425" alt="image" src="https://github.com/user-attachments/assets/1861f332-c2a7-4807-875f-e42a70ecebe1" />
 
 ---
 
