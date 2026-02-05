@@ -28,7 +28,7 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 
 ## FLOW CHART
-<img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/b5a7062d-e294-47cd-9683-a40de25e82de" />
+<img width="377" height="522" alt="image" src="https://github.com/user-attachments/assets/bd33a0c3-7a78-4c35-9c80-93dab8bae111" />
 
 
 #### Program
@@ -119,7 +119,7 @@ end
 (Add your calculation here)
 
 ---
-![WhatsApp Image 2026-02-05 at 9 47 40 PM](https://github.com/user-attachments/assets/f978fdb4-e030-443b-af51-454b44b4691b)
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3f43ff55-243c-4abe-be14-3892eef1ab42" />
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
@@ -172,7 +172,7 @@ end
 
 (Add your calculation here)
 
-![WhatsApp Image 2026-02-05 at 9 48 15 PM](https://github.com/user-attachments/assets/0611ca35-bf1e-4ad6-ac7c-5f9ce7ea0d0b)
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/3227b79a-69b7-447d-915b-f085e97a73c3" />
 
 ---
 
@@ -221,7 +221,7 @@ END
 #### Manual Calculations
 
 (Add your calculation here)
-![WhatsApp Image 2026-02-05 at 9 48 34 PM](https://github.com/user-attachments/assets/5bbd4f12-5b0e-43ca-a357-c99d2a402fbe)
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/0462b7e3-3d65-4df3-9d34-ce0ede6964c9" />
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
