@@ -64,7 +64,7 @@ END
 
 (Add your calculation here)
 
-<img width="637" height="423" alt="image" src="https://github.com/user-attachments/assets/fab15d3f-dca7-4974-8d00-8b26b6272035" />
+<img width="646" height="431" alt="image" src="https://github.com/user-attachments/assets/404affba-0127-4ba5-8868-2d55807b8935" />
 
 ---
 
