@@ -64,7 +64,7 @@ END
 
 (Add your calculation here)
 
-![WhatsApp Image 2026-02-05 at 9 47 15 PM](https://github.com/user-attachments/assets/8f86146e-cc48-49f9-8679-b5a666a631da)
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/a7f1423e-0636-40f5-ad72-5a8a7361c238" />
 
 ---
 
