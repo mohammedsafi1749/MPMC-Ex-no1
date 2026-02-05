@@ -113,7 +113,10 @@ end
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|      1200 : 12          |        1204 : 00         |
+|      1201 : 34          |        1205 : 00         |  
+|      1202 : 12          |                          |
+|      1203 : 34          |                          |  
 
 #### Manual Calculations
 
@@ -167,8 +170,10 @@ end
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-
+|      1200 : 12          |        1204 : 90         |
+|      1201 : 34          |        1205 : 5A         |  
+|      1202 : 12          |        1206 : 4B         |
+|      1203 : 34          |        1207 : 01         | 
 #### Manual Calculations
 
 (Add your calculation here)
@@ -217,11 +222,15 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|      1200 : 12          |        1204 : 01         |
+|      1201 : 34          |        1205 : 00         |  
+|      1202 : 12          |        1206 : 00         |
+|      1203 : 34          |        1207 : 00         |
 
 #### Manual Calculations
 
 (Add your calculation here)
+
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/0462b7e3-3d65-4df3-9d34-ce0ede6964c9" />
 
 ---
