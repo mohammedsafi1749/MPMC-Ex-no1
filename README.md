@@ -118,7 +118,6 @@ end
 (Add your calculation here)
 
 ---
-<img width="637" height="424" alt="image" src="https://github.com/user-attachments/assets/d11df796-dea9-4ba7-8404-438f1b49f611" />
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
@@ -171,7 +170,6 @@ end
 
 (Add your calculation here)
 
-<img width="645" height="427" alt="image" src="https://github.com/user-attachments/assets/4f56145f-cecb-4dd3-821f-4d32b3598705" />
 
 ---
 
