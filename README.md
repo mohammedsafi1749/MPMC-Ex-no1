@@ -64,7 +64,6 @@ END
 
 (Add your calculation here)
 
-<img width="646" height="431" alt="image" src="https://github.com/user-attachments/assets/404affba-0127-4ba5-8868-2d55807b8935" />
 
 ---
 
@@ -89,23 +88,22 @@ END
 
 #### Program
 ```asm
-CODE SEGMENT
-ASSUME CS: CODE, DS: CODE
-ORG 1000H
-MOV SI,2000H
-MOV CL,00H
-MOV AX,[SI]
-MOV BX,[SI+02H]
-SUB AX,BX
-JNC L1
-INC CL
-L1:
-MOV [SI+04H],AX
-MOV [SI+06H],CL
-MOV AH,4CH
-INT 21H
-CODE ENDS
-END
+code segment
+assume cs:code,ds:code
+org 1000h
+mov AX,1234h
+mov BX,1234h
+sub AX,BX
+jnc down
+inc CL
+down:mov SI,1200h
+mov [sI],AX
+mov [SI+2],CL
+mov ah,4ch
+int 21H
+code ends
+end
+
 ```
 
 
@@ -125,6 +123,9 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
+<img width="637" height="424" alt="image" src="https://github.com/user-attachments/assets/d11df796-dea9-4ba7-8404-438f1b49f611" />
+
+
 ## 3. MULTIPLICATION
 
 #### Algorithm
@@ -143,20 +144,21 @@ END
 #### Program
 
 ```asm
-CODE SEGMENT
-ASSUME CS: CODE, DS: CODE
-ORG 1000H
-MOV SI,2000H
+code segment
+assume cs:code,ds:code
+org 1000h
 MOV DX,0000H
-MOV AX,[SI]
-MOV BX,[SI+02H]
-MUL BX
-MOV [SI+04H],AX
-MOV [SI+06H],DX
-MOV AH,4CH
-INT 21H
-CODE ENDS
-END
+mov AX,1234h
+mov BX,1234h
+mul BX
+mov si,1200h
+mov [si],ax
+mov [si+02h],dx
+mov ah,4ch
+int 21h
+code ends
+end
+
 ```
 
 #### Output Table
@@ -175,6 +177,9 @@ END
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
+<img width="645" height="427" alt="image" src="https://github.com/user-attachments/assets/4f56145f-cecb-4dd3-821f-4d32b3598705" />
+
+
 ## 4. DIVISION
 
 #### Algorithm
@@ -191,15 +196,15 @@ END
 
 ```asm
 CODE SEGMENT
-ASSUME CS: CODE, DS: CODE
+ASSUME CS:CODE,DS:CODE
 ORG 1000H
-MOV SI,2000H
 MOV DX,0000H
-MOV AX,[SI]
-MOV BX,[SI+02H]
+MOV AX,1234H
+MOV BX,1234H
 DIV BX
-MOV [SI+04H],AX
-MOV [SI+06H],DX
+MOV SI,1200H
+MOV [SI],AX
+MOV [SI+©2H],DX
 MOV AH,4CH
 INT 21H
 CODE ENDS
