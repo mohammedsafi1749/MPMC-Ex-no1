@@ -118,6 +118,7 @@ end
 |      1202 : 12          |                          |
 |      1203 : 34          |                          |  
 
+
 #### Manual Calculations
 
 (Add your calculation here)
@@ -174,6 +175,8 @@ end
 |      1201 : 34          |        1205 : 5A         |  
 |      1202 : 12          |        1206 : 4B         |
 |      1203 : 34          |        1207 : 01         | 
+
+
 #### Manual Calculations
 
 (Add your calculation here)
@@ -226,6 +229,7 @@ END
 |      1201 : 34          |        1205 : 00         |  
 |      1202 : 12          |        1206 : 00         |
 |      1203 : 34          |        1207 : 00         |
+
 
 #### Manual Calculations
 
